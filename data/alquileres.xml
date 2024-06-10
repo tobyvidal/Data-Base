@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alquileres>
+    <!-- Registro de alquiler 1 -->
+    <alquiler>
+        <ID>1</ID>
+        <nombreInquilino>Juan Pérez</nombreInquilino>
+        <direccionPiso>Calle Mayor 123</direccionPiso>
+        <importeAlquiler>500.00</importeAlquiler>
+        <duracionContrato>12</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>2</ID>
+        <nombreInquilino>Marta López</nombreInquilino>
+        <direccionPiso>Avenida Libertad 456</direccionPiso>
+        <importeAlquiler>600.00</importeAlquiler>
+        <duracionContrato>6</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>3</ID>
+        <nombreInquilino>Carlos García</nombreInquilino>
+        <direccionPiso>Calle Principal 789</direccionPiso>
+        <importeAlquiler>450.00</importeAlquiler>
+        <duracionContrato>9</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>4</ID>
+        <nombreInquilino>Laura Martínez</nombreInquilino>
+        <direccionPiso>Paseo del Prado 246</direccionPiso>
+        <importeAlquiler>550.00</importeAlquiler>
+        <duracionContrato>12</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>5</ID>
+        <nombreInquilino>Pablo Sánchez</nombreInquilino>
+        <direccionPiso>Calle Gran Vía 789</direccionPiso>
+        <importeAlquiler>700.00</importeAlquiler>
+        <duracionContrato>6</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>6</ID>
+        <nombreInquilino>Ana García</nombreInquilino>
+        <direccionPiso>Avenida de la Constitución 12</direccionPiso>
+        <importeAlquiler>480.00</importeAlquiler>
+        <duracionContrato>9</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>7</ID>
+        <nombreInquilino>Rubén Fernández</nombreInquilino>
+        <direccionPiso>Calle Mayor 567</direccionPiso>
+        <importeAlquiler>620.00</importeAlquiler>
+        <duracionContrato>12</duracionContrato>
+    </alquiler>
+    <!-- Registro de alquiler 8 -->
+    <alquiler>
+        <ID>8</ID>
+        <nombreInquilino>Sara Pérez</nombreInquilino>
+        <direccionPiso>Calle Granada 123</direccionPiso>
+        <importeAlquiler>550.00</importeAlquiler>
+        <duracionContrato>6</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>9</ID>
+        <nombreInquilino>David Ruiz</nombreInquilino>
+        <direccionPiso>Paseo de la Castellana 789</direccionPiso>
+        <importeAlquiler>600.00</importeAlquiler>
+        <duracionContrato>9</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>10</ID>
+        <nombreInquilino>Marta Jiménez</nombreInquilino>
+        <direccionPiso>Calle Alcalá 456</direccionPiso>
+        <importeAlquiler>480.00</importeAlquiler>
+        <duracionContrato>12</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>11</ID>
+        <nombreInquilino>Javier López</nombreInquilino>
+        <direccionPiso>Calle Gran Vía 789</direccionPiso>
+        <importeAlquiler>700.00</importeAlquiler>
+        <duracionContrato>6</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>12</ID>
+        <nombreInquilino>Sandra Gómez</nombreInquilino>
+        <direccionPiso>Avenida de la Constitución 12</direccionPiso>
+        <importeAlquiler>450.00</importeAlquiler>
+        <duracionContrato>9</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>13</ID>
+        <nombreInquilino>Luis Martínez</nombreInquilino>
+        <direccionPiso>Calle Mayor 567</direccionPiso>
+        <importeAlquiler>620.00</importeAlquiler>
+        <duracionContrato>12</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>14</ID>
+        <nombreInquilino>Elena Pérez</nombreInquilino>
+        <direccionPiso>Calle Granada 123</direccionPiso>
+        <importeAlquiler>550.00</importeAlquiler>
+        <duracionContrato>6</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>15</ID>
+        <nombreInquilino>Miguel Ruiz</nombreInquilino>
+        <direccionPiso>Paseo de la Castellana 789</direccionPiso>
+        <importeAlquiler>600.00</importeAlquiler>
+        <duracionContrato>9</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>16</ID>
+        <nombreInquilino>Lucía Jiménez</nombreInquilino>
+        <direccionPiso>Calle Alcalá 456</direccionPiso>
+        <importeAlquiler>480.00</importeAlquiler>
+        <duracionContrato>12</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>17</ID>
+        <nombreInquilino>Pablo Sánchez</nombreInquilino>
+        <direccionPiso>Calle Gran Vía 789</direccionPiso>
+        <importeAlquiler>700.00</importeAlquiler>
+        <duracionContrato>6</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>18</ID>
+        <nombreInquilino>Ana García</nombreInquilino>
+        <direccionPiso>Avenida de la Constitución 12</direccionPiso>
+        <importeAlquiler>480.00</importeAlquiler>
+        <duracionContrato>9</duracionContrato>
+    </alquiler>
+    <alquiler>
+        <ID>19</ID>
+        <nombreInquilino>Rubén Fernández</nombreInquilino>
+        <direccionPiso>Calle Mayor 567</direccionPiso>
+        <importeAlquiler>620.00</importeAlquiler>
+        <duracionContrato>12</duracionContrato>
+    </alquiler>
+    <!-- Registro de alquiler 20 -->
+    <alquiler>
+        <ID>20</ID>
+        <nombreInquilino>Sara Pérez</nombreInquilino>
+        <direccionPiso>Calle Granada 123</direccionPiso>
+        <importeAlquiler>550.00</importeAlquiler>
+        <duracionContrato>6</duracionContrato>
+    </alquiler>
+</alquileres>

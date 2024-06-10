@@ -1,0 +1,27 @@
+<ServiciosAsociados>
+    
+    
+    
+    
+    <Servicio>
+        <ID>5</ID>
+        <TipoServicio>Televisión por cable</TipoServicio>
+        <CostoMensual>70.00</CostoMensual>
+        <IdAlquiler>3</IdAlquiler>
+    </Servicio>
+    <Servicio>
+        <ID>6</ID>
+        <TipoServicio>Seguridad</TipoServicio>
+        <CostoMensual>100.00</CostoMensual>
+        <IdAlquiler>3</IdAlquiler>
+    </Servicio>
+    
+    
+    <Servicio>
+        <ID>9</ID>
+        <TipoServicio>Recolección de basura</TipoServicio>
+        <CostoMensual>30.00</CostoMensual>
+        <IdAlquiler>2</IdAlquiler>
+    </Servicio>
+    
+<Servicio><ID>11</ID><TipoServicio>Futbol</TipoServicio><CostoMensual>30,00</CostoMensual><IdAlquiler>20</IdAlquiler></Servicio><Servicio><ID>12</ID><TipoServicio>fff</TipoServicio><CostoMensual>3,00</CostoMensual><IdAlquiler>3</IdAlquiler></Servicio><Servicio><ID>20</ID><TipoServicio>caro</TipoServicio><CostoMensual>1000,00</CostoMensual><IdAlquiler>1</IdAlquiler></Servicio></ServiciosAsociados>
